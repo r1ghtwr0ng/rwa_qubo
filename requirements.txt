@@ -1,0 +1,8 @@
+basemap
+dwave-ocean-sdk
+gurobipy
+matplotlib
+networkx
+numba
+numpy
+python-dotenv
